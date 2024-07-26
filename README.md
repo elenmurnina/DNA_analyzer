@@ -2,9 +2,6 @@
 
 Implementation of the DNA Analyzer project.
 
-
-## Contents
-
 1. [Chapter I](#chapter-i) \
     1.1. [Introduction](#introduction)
 2. [Chapter II](#chapter-ii) \
@@ -18,12 +15,6 @@ Implementation of the DNA Analyzer project.
 
 
 ## Chapter I 
-
-
-Once again, Eve got into a strange new project, which happens often in her company. The Applied Bioinformatics Research department needed someone who could write complex algorithms. They were working with a partner company in Britain on a project that would allow for better prescribing of medications for patients, and that required a ton of algorithms. Since most of them were already formalized and did not require much knowledge of biology or immersion in the subject matter of the project, it was possible to take an outside person to help. \
-All the stars aligned for Eve. Her experience in algorithms came in handy, as did her previous interaction with the guys from Advanced Solutions Inc., those same British partners, as part of the long-suffering tasks on labyrinths.
-
-No one in the Applied Bioinformatics Research department, despite Eve's expectations, was wearing white coats or carrying flasks with dangerous viruses that could lock the population of the entire planet at home for several years. Instead, the same programmers were sitting there, searching through long, incomprehensible strings on their computer screens. They were even only two floors above Eve. She had to move here for a while to speed up the communication process. Eve wasn't too upset about it, figuring she could pump up her algorithmic skills on this project one more time. However, she strongly regretted not being able to take her favorite chair with her...
 
 ## Introduction
 
@@ -114,7 +105,6 @@ The Unix-like operating systems have a utility `/usr/bin/time` (not to be confus
 where `PROGRAM` corresponds to the name of the executable file. 
 The output of `/usr/bin/time` might look like this:
 ```
-    Command being timed: "./nw"
     User time (seconds): 0.00
     System time (seconds): 0.00
     Percent of CPU this job got: 75%
@@ -251,6 +241,3 @@ GGCGACACCCACCATACAT
 ```
 
 The result is a substring of _minimum_ length, so we choose the first one.
-
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64181f6690fa7b277e57925f/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
